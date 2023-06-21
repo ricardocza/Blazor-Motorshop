@@ -1,0 +1,19 @@
+
+header[b-dc77na25t2] {
+    position: relative;    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 4rem;
+    padding: 5rem 2rem 15rem;
+    background: linear-gradient(0deg, #000000, #0000001f);
+    color: var(--bs-white);
+    z-index: 5;
+}
+.center-image[b-dc77na25t2] {
+   bottom: 2rem;
+   width: 135%;
+   opacity: 50%;
+}
